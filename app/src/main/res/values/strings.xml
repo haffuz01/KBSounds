@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KBSounds</string>
+    <string name="forest1_title">Forest Track one</string>
+    <string name="forest2_title">Forest Track two</string>
+    <string name="water1_title">Water Track one</string>
+    <string name="water2_title">Water Track two</string>
+    <string name="forest1_artist">MrStylemed</string>
+    <string name="forest2_artist">MrStylemed</string>
+    <string name="water1_artist">TaylorJohnson</string>
+    <string name="water2_artist">TaylorJohnson</string>
+</resources>
